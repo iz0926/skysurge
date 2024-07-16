@@ -1,2 +1,2 @@
 # skysurge
-a game i made in unity for someone i like :)
+a game i made in Unity for someone i like :)
