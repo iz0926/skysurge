@@ -2,7 +2,7 @@
 a game i made in Unity for someone i like :) 
 
 ## 📸 Preview  
-![Game Scene](preview.png) 
+<img src="preview.png" alt="Preview" width="300"/>
 
 ### **Main Scripts**  
 - `Camera.cs` – Manages camera behavior and perspective.  
