@@ -6,7 +6,7 @@ a game i made in Unity for someone i like :)
 
 ### **Main Scripts**  
 - `Camera.cs` – Manages camera behavior and perspective.  
-- `CoinGenerator.cs` – Handles coin spawning mechanics.  
+- `CoinGenerator.cs` – The coin generator reads a pixel image (coinMap), matches pixel colors to predefined prefabs, and spawns coins at corresponding positions with scaling and offsets. I created my own custom pixel images with Procreate! 
 - `Game_RestartScreen.cs` – Controls the restart screen and game-over logic.  
 - `MapGenerator.cs` – Continuously generates the game map/environment for a side-scrolling effect.  
 - `Player.cs` – Controls player movement and interactions.  
