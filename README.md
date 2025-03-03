@@ -1,6 +1,9 @@
 # skysurge
 a game i made in Unity for someone i like :) 
 
+## 📸 Preview  
+![Game Scene](preview.png) 
+
 ### **Main Scripts**  
 - `Camera.cs` – Manages camera behavior and perspective.  
 - `CoinGenerator.cs` – Handles coin spawning mechanics.  
